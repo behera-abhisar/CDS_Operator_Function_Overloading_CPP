@@ -163,9 +163,9 @@ public:
    - Call `c3.display()` to output the result.
 4. **Stop**
 
-# EXPERIMENT 13(F): BANK ACCOUNT OPERATIONS USING OPERATOR OVERLOADING  
+## EXPERIMENT 13(F): BANK ACCOUNT OPERATIONS USING OPERATOR OVERLOADING  
 
-## Algorithm  
+### Algorithm  
 
 1. **Start**  
 2. Define a class `BankAccount` with:  
